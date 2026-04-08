@@ -23,6 +23,7 @@ location    : Tempe, AZ 🌵
 
 - 🎓 MS in Computer Science at **Arizona State University** (GPA: **3.89/4.0**)
 - 🔬 Published researcher with **2 IEEE conference papers** in ML, Computer Vision & LLM systems
+- 🔗 EEE undergrad → CS grad: optimization algorithms (PSO/GA/QEA) + VLSI design → now applied to ML systems
 - 🤖 Passionate about building intelligent systems — from CV pipelines to RAG-based LLM infrastructure
 - 🌐 Portfolio: [neric-portfolio.vercel.app](https://neric-portfolio.vercel.app)
 - 📫 Reach me: **nericjoel07@gmail.com**
@@ -95,17 +96,48 @@ location    : Tempe, AZ 🌵
 |---------|-------------|-------|
 | 🤖 **[Hand Gesture Recognition](https://github.com/neric-joel/hand-gesture-recognition)** | Real-time ASL gesture detection using MediaPipe landmarks (no ML training) | Python · OpenCV · MediaPipe |
 | 🧠 **[neric-portfolio](https://github.com/neric-joel/neric-portfolio)** | Personal portfolio site — React + Vite + Tailwind, deployed on Vercel | React · Vite · Tailwind |
-| 📡 **RAG-based LLM Pipeline** *(coming soon)* | End-to-end Retrieval-Augmented Generation system | Python · LangChain · FAISS |
-| 📊 **ML Job Hunt Automation** *(private)* | 11-component automated internship pipeline with ATS scoring + auto-tailoring | Python · Apify · Gmail API |
+
+<!-- 
+  ACTION REQUIRED: Manually pin your 6 best repos on GitHub.
+  Go to: https://github.com/neric-joel → click "Customize your pins"
+  Recommended pins:
+    1. neric-portfolio          → most polished, has live site
+    2. hand-gesture-recognition → flagship ML repo
+    3. Path-Forward             → full-stack proof
+    4. movie-recommender        → ML algorithms
+    5. neric-joel               → shows you maintain your profile
+    6. [your best remaining public repo]
+  This controls what recruiters see FIRST. Do not leave it to GitHub's default.
+-->
 
 ---
 
 ## 📄 Publications
 
-- 📑 **IEEE Paper 1** — Machine Learning / Computer Vision domain *(conference, 2024)*
-- 📑 **IEEE Paper 2** — LLM-adjacent / Signal Processing domain *(conference, 2024)*
+<table>
+  <tr>
+    <td>📑</td>
+    <td>
+      <strong>Design and Comparative Analysis of CMOS, FSGDI, and MGDI-Based Ripple Carry Adders for Low Power VLSI Applications</strong><br/>
+      <em>13th International Conference on Smart Grid (icSmartGrid) · Glasgow, UK · May 2025</em> · IEEE<br/>
+      Demonstrated MGDI-based RCA achieves the lowest power consumption (1.484W) vs CMOS and FS-GDI — evaluated across transistor count, propagation delay, and area efficiency.<br/>
+      <a href="https://ieeexplore.ieee.org/document/11071839">📄 IEEE Xplore</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1109/icSmartGrid66138.2025.11071839">DOI</a>
+    </td>
+  </tr>
+  <tr>
+    <td>📑</td>
+    <td>
+      <strong>Optimal Parameter Estimation Techniques for Enhanced Performance of Solar PV Cell</strong><br/>
+      <em>International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI) · Chennai, India · April 2025</em> · IEEE<br/>
+      Benchmarked PSO, GA, and QEA for estimating solar PV cell parameters — diode ideality factor, series/shunt resistance, and photo-generated current — across convergence speed, accuracy, and computational complexity.<br/>
+      <a href="https://ieeexplore.ieee.org/document/11048280">📄 IEEE Xplore</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1109/RAEEUCCI63961.2025.11048280">DOI</a>
+    </td>
+  </tr>
+</table>
 
-> Two peer-reviewed IEEE conference publications in applied ML research.
+> 2× peer-reviewed IEEE conference publications — VLSI low-power design & solar PV optimization.
+
+*Research background in EEE — now applying optimization and systems thinking to AI/ML at ASU.*
 
 ---
 
@@ -136,6 +168,8 @@ location    : Tempe, AZ 🌵
 <!-- Profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=neric-joel&color=58A6FF&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
 </p>
 
 <p align="center">
