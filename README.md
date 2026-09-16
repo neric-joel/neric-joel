@@ -1,177 +1,162 @@
-<!-- HEADER: Animated typing banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Neric+Joel+%F0%9F%91%8B;MS+CS+%40+Arizona+State+University;AI+%2F+ML+Engineer+%7C+Researcher;Computer+Vision+%7C+NLP+%7C+LLMs;Open+to+Summer+2026+Internships+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-<!-- YAML-style bio card -->
-```yaml
-name        : Neric Joel
-role        : AI/ML Engineer & Researcher
-education   : MS Computer Science @ ASU (GPA 3.89/4.0)
-prev        : B.Tech EEE @ Amrita Vishwa Vidyapeetham
-focus       : Machine Learning · Computer Vision · NLP · LLMs · RAG
-publications: 2x IEEE Conference Papers
-seeking     : Summer 2026 AI/ML Internship (F-1 OPT Eligible)
-location    : Tempe, AZ 🌵
-```
-
----
-
-## 🧠 About Me
-
-- 🎓 MS in Computer Science at **Arizona State University** (GPA: **3.89/4.0**)
-- 🔬 Published researcher with **2 IEEE conference papers** in ML, Computer Vision & LLM systems
-- 🔗 EEE undergrad → CS grad: optimization algorithms (PSO/GA/QEA) + VLSI design → now applied to ML systems
-- 🤖 Passionate about building intelligent systems — from CV pipelines to RAG-based LLM infrastructure
-- 🌐 Portfolio: [neric-portfolio.vercel.app](https://neric-portfolio.vercel.app)
-- 📫 Reach me: **nericjoel07@gmail.com**
-- ⚡ Fun fact: My background in EEE gives me a unique edge in signal processing + ML!
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-**ML / AI Frameworks**
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
-
-**Data & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
+<!-- Neric Joel · GitHub profile README. Generated images ship light/dark pairs via <picture>. -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neric-joel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neric-joel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=820&height=45&lines=Hi%2C+I%27m+Neric+Joel%3BAI%2FML+Engineer+%C2%B7+M.S.+Computer+Science+%40+Arizona+State%3BI+build+RAG+pipelines%2C+LLM+agents+%26+computer-vision+models%3BCo-author+of+2+IEEE+papers+%C2%B7+Open+to+Summer+2027+internships" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=820&height=45&lines=Hi%2C+I%27m+Neric+Joel%3BAI%2FML+Engineer+%C2%B7+M.S.+Computer+Science+%40+Arizona+State%3BI+build+RAG+pipelines%2C+LLM+agents+%26+computer-vision+models%3BCo-author+of+2+IEEE+papers+%C2%B7+Open+to+Summer+2027+internships" alt="Neric Joel: AI/ML engineer, M.S. Computer Science at Arizona State University" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neric-joel&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/neric-joel"><img src="https://img.shields.io/badge/LinkedIn-neric--joel-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iMyIgZmlsbD0iI2ZmZmZmZiIvPjx0ZXh0IHg9IjEyIiB5PSIxNy41IiBmb250LWZhbWlseT0iQXJpYWwsSGVsdmV0aWNhLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZvbnQtc2l6ZT0iMTQuNSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzBBNjZDMiI%2BaW48L3RleHQ%2BPC9zdmc%2B" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://neric-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-neric--portfolio.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:nericjoel07@gmail.com"><img src="https://img.shields.io/badge/Email-nericjoel07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=neric-joel&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D_Tempe%2C_AZ-1f6feb?style=flat-square" alt="Tempe, AZ" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_Graduating-May_2027-2ea043?style=flat-square" alt="Graduating May 2027" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_Seeking-Summer_2027_AI%2FML_Internship-d29922?style=flat-square" alt="Seeking Summer 2027 AI/ML internship" />
 </p>
 
----
+## About
 
-## 📌 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🤖 **[Hand Gesture Recognition](https://github.com/neric-joel/hand-gesture-recognition)** | Real-time ASL gesture detection using MediaPipe landmarks (no ML training) | Python · OpenCV · MediaPipe |
-| 🧠 **[neric-portfolio](https://github.com/neric-joel/neric-portfolio)** | Personal portfolio site — React + Vite + Tailwind, deployed on Vercel | React · Vite · Tailwind |
-
-<!-- 
-  ACTION REQUIRED: Manually pin your 6 best repos on GitHub.
-  Go to: https://github.com/neric-joel → click "Customize your pins"
-  Recommended pins:
-    1. neric-portfolio          → most polished, has live site
-    2. hand-gesture-recognition → flagship ML repo
-    3. Path-Forward             → full-stack proof
-    4. movie-recommender        → ML algorithms
-    5. neric-joel               → shows you maintain your profile
-    6. [your best remaining public repo]
-  This controls what recruiters see FIRST. Do not leave it to GitHub's default.
--->
-
----
-
-## 📄 Publications
+I'm a Computer Science master's student at **Arizona State University**. I build RAG pipelines, LLM agents, and computer-vision models, plus the APIs and UIs around them, and I test what I ship. My undergraduate degree is in Electrical & Electronics Engineering, where I worked on signal processing and numerical optimization for solar PV systems.
 
 <table>
   <tr>
-    <td>📑</td>
+    <td valign="top" width="50%">
+
+**Education**
+
+- **M.S. Computer Science**, Arizona State University<br/>Aug 2025 – May 2027 (expected) · GPA 3.66 / 4.0
+- **B.Tech. Electrical & Electronics Engineering**, Amrita Vishwa Vidyapeetham<br/>Sep 2021 – May 2025 · First Class · Merit Scholarship
+
+</td>
+    <td valign="top" width="50%">
+
+**Focus areas**
+
+- Retrieval-Augmented Generation and LLM evaluation
+- Agentic AI: tool-calling, multi-agent orchestration
+- Computer vision: segmentation, real-time tracking
+- Numerical optimization and predictive modeling
+
+</td>
+  </tr>
+</table>
+
+## Experience
+
+| When | Role | Highlights |
+|:--|:--|:--|
+| May 2026 – Present | **Lead Developer**, Career Faculty Association (CFA) Resource Chatbot · Arizona State University | Lead a 4-person team on a RAG chatbot that answers faculty questions from official documents with a link to the source. Designed the docx/xlsx ingestion and hybrid-retrieval pipeline with cached embeddings. 23-question eval set: 23/23 correct retrievals, every answer grounded in a cited source, enforced by a pytest regression gate. Streamlit UI with out-of-scope guardrails. |
+| May – Jul 2026 | **Teaching Assistant**, W. P. Carey School of Business · Arizona State University | Supported 106 graduate students building AI agents on n8n. Debugged tool-calling routines and REST integrations, reviewed student code, and wrote the reference solutions and debugging guides the cohort validated against. |
+| Jan 2024 – May 2025 | **Research Assistant**, PV Systems Lab · Amrita Vishwa Vidyapeetham | Built predictive models over 100k+ telemetry records (18% lower degradation-forecast error vs. baseline), automated ETL with validation checks (40% less manual prep), and fit single-diode PV models with least-squares and particle-swarm optimization. |
+
+## Projects
+
+| Project | What it does | Built with | Links |
+|:--|:--|:--|:--|
+| **AgentRoom** | Local chat room that puts your installed agent CLIs (Claude Code, Codex, Gemini) into one conversation. `/discuss` splits a task across agents on a shared blackboard and converges on one attributed answer. At v1.6, with CI and tagged releases. | TypeScript · Node.js | [Repo](https://github.com/neric-joel/Whatsapp-Agents) · [Releases](https://github.com/neric-joel/Whatsapp-Agents/releases) |
+| **Path Forward** | College-readiness planner for foster youth aging out of care. Six questions in, a personalized funding match, school list, and semester roadmap out. HackASU 2026. | React 18 · TypeScript · Claude API · Tailwind CSS | [Live](https://pathforward-az.vercel.app) · [Video](https://www.youtube.com/watch?v=9Z9AgUIAbHk) · [Repo](https://github.com/neric-joel/path-forward) |
+| **CareBase** | Open-source case-management platform with AI assistance for food banks and social-services nonprofits, built for ICM Food & Clothing Bank at WiCS × Opportunity Hack 2026. | Next.js 14 · Supabase · Claude API | [Live](https://carebase-murex.vercel.app) · [Video](https://www.youtube.com/watch?v=YtwZh96U1F8) · [Repo](https://github.com/neric-joel/CareBase) |
+| **NotaryGuard** | Identity-verification pipeline for remote online notarization. Runs uploaded IDs through four progressive verification levels, from OCR and name matching to notary-commission validity. VillageHacks 2026. | Python · FastAPI · PaddleOCR · React | [Repo](https://github.com/neric-joel/Village-Hacks) |
+| **Workflow Analyst** | n8n agent that lets an instructor ask plain-English questions about 700+ student workflow submissions and get cited, grounded answers. Built as the TA tool for a 106-student ASU course. | n8n · LLM tool-calling · Google Sheets | [Repo](https://github.com/neric-joel/workflow-analyst) |
+| **Hand Gesture Recognition** | Real-time two-hand tracking, finger counting, and A–Z ASL fingerspelling from a webcam using landmark geometry, with no model training. | Python · OpenCV · MediaPipe | [Repo](https://github.com/neric-joel/hand-gesture-recognition) |
+| **Hybrid Movie Recommender** | Combines collaborative filtering, content-based filtering, and Neural Collaborative Filtering (NeuMF) into one ranked recommender. Graduate course project, ASU. | Python · PyTorch · pandas | [Repo](https://github.com/neric-joel/movie-recommender-system) |
+
+## Publications
+
+Co-author of two peer-reviewed IEEE conference papers (2025).
+
+<table>
+  <tr>
+    <td width="36" align="center">📄</td>
     <td>
       <strong>Design and Comparative Analysis of CMOS, FSGDI, and MGDI-Based Ripple Carry Adders for Low Power VLSI Applications</strong><br/>
-      <em>13th International Conference on Smart Grid (icSmartGrid) · Glasgow, UK · May 2025</em> · IEEE<br/>
-      Demonstrated MGDI-based RCA achieves the lowest power consumption (1.484W) vs CMOS and FS-GDI — evaluated across transistor count, propagation delay, and area efficiency.<br/>
-      <a href="https://ieeexplore.ieee.org/document/11071839">📄 IEEE Xplore</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1109/icSmartGrid66138.2025.11071839">DOI</a>
+      <em>2025 13th International Conference on Smart Grid (icSmartGrid), Glasgow, UK</em> · IEEE<br/>
+      Compared three adder architectures on power, propagation delay, transistor count, and area; the MGDI design drew the least power.<br/>
+      <a href="https://ieeexplore.ieee.org/document/11071839">IEEE Xplore</a> · <a href="https://doi.org/10.1109/icSmartGrid66138.2025.11071839">DOI</a>
     </td>
   </tr>
   <tr>
-    <td>📑</td>
+    <td width="36" align="center">📄</td>
     <td>
       <strong>Optimal Parameter Estimation Techniques for Enhanced Performance of Solar PV Cell</strong><br/>
-      <em>International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI) · Chennai, India · April 2025</em> · IEEE<br/>
-      Benchmarked PSO, GA, and QEA for estimating solar PV cell parameters — diode ideality factor, series/shunt resistance, and photo-generated current — across convergence speed, accuracy, and computational complexity.<br/>
-      <a href="https://ieeexplore.ieee.org/document/11048280">📄 IEEE Xplore</a> &nbsp;·&nbsp; <a href="https://doi.org/10.1109/RAEEUCCI63961.2025.11048280">DOI</a>
+      <em>2025 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI), Chennai, India</em> · IEEE<br/>
+      Benchmarked particle swarm optimization, genetic algorithms, and quantum-inspired evolutionary algorithms for single-diode PV parameter estimation on convergence speed, accuracy, and cost.<br/>
+      <a href="https://ieeexplore.ieee.org/document/11048280">IEEE Xplore</a> · <a href="https://doi.org/10.1109/RAEEUCCI63961.2025.11048280">DOI</a>
     </td>
   </tr>
 </table>
 
-> 2× peer-reviewed IEEE conference publications — VLSI low-power design & solar PV optimization.
+## Tech stack
 
-*Research background in EEE — now applying optimization and systems thinking to AI/ML at ASU.*
+<p align="center">
+  <strong>Languages</strong><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logoColor=white" alt="MATLAB" />
+</p>
 
----
+<p align="center">
+  <strong>AI/ML</strong><br/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+</p>
 
-## 🤝 Connect With Me
+<p align="center">
+  <strong>Backend &amp; web</strong><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+</p>
 
-<p align="left">
-  <a href="https://linkedin.com/in/neric-joel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://neric-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="mailto:nericjoel07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/neric-joel">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+  <strong>Data &amp; tooling</strong><br/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api?username=neric-joel&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=neric-joel&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="Neric Joel's GitHub stats" height="170" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=neric-joel&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=neric-joel&layout=compact&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,css" alt="Most used languages" height="170" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neric-joel/neric-joel/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/neric-joel/neric-joel/output/github-contribution-grid-snake.svg" alt="Contribution graph snake animation" width="100%" />
+</picture>
 </p>
 
 ---
 
-<!-- Snake animation — contribution graph snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/neric-joel/neric-joel/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<!-- Profile views counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neric-joel&color=58A6FF&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" />
-</p>
-
-<p align="center">
-  <em>"Building intelligent systems one model at a time."</em>
+  Looking for a <strong>Summer 2027 AI/ML or software engineering internship</strong> (May – August 2027, on-site, hybrid, or remote).<br/>
+  If you work on retrieval, agents, or applied ML, I'd like to hear from you: <a href="mailto:nericjoel07@gmail.com">nericjoel07@gmail.com</a>
 </p>
