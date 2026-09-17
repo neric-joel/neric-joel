@@ -32,7 +32,7 @@
 | May – Jul 2026 | **Teaching Assistant**, W. P. Carey School of Business · Arizona State University | Supported 106 graduate students building AI agents on n8n. Debugged tool-calling routines and REST integrations, reviewed student code, and wrote the reference solutions and debugging guides the cohort validated against. |
 | Jan 2024 – May 2025 | **Research Assistant**, PV Systems Lab · Amrita Vishwa Vidyapeetham | Built predictive models over 100k+ telemetry records (18% lower degradation-forecast error vs. baseline), automated ETL with validation checks (40% less manual prep), and fit single-diode PV models with least-squares and particle-swarm optimization. |
 
-Education: **M.S. Computer Science**, Arizona State University, Aug 2025 – May 2027 (expected), GPA 3.66 / 4.0 · **B.Tech. Electrical & Electronics Engineering**, Amrita Vishwa Vidyapeetham, Sep 2021 – May 2025.
+Education: **M.S. Computer Science**, Arizona State University, Aug 2025 – May 2027 (expected) · **B.Tech. Electrical & Electronics Engineering**, Amrita Vishwa Vidyapeetham, Sep 2021 – May 2025.
 
 ## Projects
 
