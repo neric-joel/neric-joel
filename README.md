@@ -20,7 +20,7 @@
 
 ## Now
 
-- **Building** the Career Faculty Association (CFA) Resource Chatbot at ASU: leading a 4-person team on a RAG system that answers faculty questions with a link to the source document (May 2026 – present).
+- **Building** the Resource Chatbot at ASU: leading a 4-person team on a RAG system that answers faculty questions with a link to the source document (May 2026 – present).
 - **Shipped** [AgentRoom v1.6](https://github.com/neric-joel/Whatsapp-Agents/releases/latest), a local multi-agent chat room for Claude Code, Codex, and Gemini CLIs (Jul 2026).
 - **Studying** for the M.S.: machine learning, deep learning, distributed systems, and advanced algorithms. B.Tech. in Electrical & Electronics Engineering (Amrita Vishwa Vidyapeetham, 2025, First Class, Merit Scholarship), where I worked on signal processing and numerical optimization for solar PV systems.
 
